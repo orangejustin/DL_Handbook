@@ -55,8 +55,6 @@
 
 ## 2nd round
 
-Sure, here are the explanations for the second round of interview questions:
-
 ### 1. Explaining CUPED (Controlled Experiments with Pre-Experiment Data)
 
 CUPED is a variance reduction technique used in controlled experiments, particularly A/B testing. To explain it to a non-technical colleague, you could use the following analogy:
